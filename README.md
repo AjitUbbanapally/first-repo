@@ -5,4 +5,4 @@ Ajith Ubbanapally, Flat 103, RK Residency,Hyderabad India
 
 ***
 
-Take me to google[]link(https://www.google.com) is the output
+Take me to google[link](https://www.google.com) is the output
